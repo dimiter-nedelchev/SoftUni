@@ -1,1 +1,1 @@
-SoftUni homeworks for programming basics course with
+SoftUni homeworks for programming basics course with JavaScript
